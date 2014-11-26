@@ -2,8 +2,7 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-			position:absolute;
-			right: 1000px;
+			float: right;
 }
 
 h1 {
