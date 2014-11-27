@@ -5,6 +5,17 @@
 
 }
 
-h1 {
-
+h1. {
+	color: black; 
+	font-family: 'Shift' American Typewriter;
 }
+
+h2. {
+	color: blue;
+	font-family: 'Shift' American Typewriter;
+}
+
+eslrTitle class. {
+	font-family: 'Shift' bold;
+}
+
