@@ -11,11 +11,13 @@ h1 {
 
 }
 
-span {
-	font-weight:bold; }
+.eslrTitle {
+	font-weight: bold; }
 
 a:hover {
 	background-color: green;
 	color: black;
 	font-weight:bold;
 	}
+#eslrMenu {
+font-weight: bold;}
