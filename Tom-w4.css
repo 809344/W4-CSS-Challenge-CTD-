@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* Sample CSS Document */
+
+#eagleLogo {
+			float: right;
+}
+
+h1 {
+	color: red;
+	
+
+}
+
+.eslrTitle {
+	font-weight: bold; }
+
+a:hover {
+	background-color: green;
+	color: black;
+	font-weight:bold;
+	}
+#eslrMenu {
+font-weight: bold;}
