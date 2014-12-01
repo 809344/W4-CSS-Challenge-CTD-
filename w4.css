@@ -6,24 +6,19 @@
 }
 
 h1. {
-	color: #9999FF; 
-	font-family: sans-serif;
+	color: blue; 
 }
 
 h2. {
-	color: #0099FF;
-	font-family: sans-serif;
+	color: purple;
 }
 
 .eslrTitle class {
 	font-weight: bold;
 }
-<<<<<<< HEAD
+
 a:hover {
     color: yellow;
     font-weight: bold;
     font-size: 2 px;
 }
-=======
-
->>>>>>> Ashley-Wu
